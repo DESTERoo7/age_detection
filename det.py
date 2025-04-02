@@ -7,7 +7,7 @@ from mtcnn import MTCNN
 model_path = "D:/fold/Project/im/age_detection_model.h5"  # Update with your model path
 model = load_model(model_path)
 
-print("✅ Model Loaded Successfully!")
+print(" Model Loaded Successfully!")
 
 # Initialize MTCNN detector
 detector = MTCNN()
