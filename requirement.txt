@@ -1,0 +1,8 @@
+python 3.10
+opencv-python
+tensorflow
+keras
+mtcnn
+numpy
+glob
+https://www.kaggle.com/datasets/skillcate/merged-augmented-utk-faces-facial-age-dataset
